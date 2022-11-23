@@ -1,4 +1,6 @@
-# Ex.No: 5 Develop a simple application for proximity sensor using Sensor Manager in android studio.
+### Ex.No: 5
+### Date: 9.11.2022
+# <p align="center">Develop a simple application for proximity sensor using Sensor Manager in android studio.</p>
 
 
 ## AIM:
@@ -25,7 +27,7 @@ Step 6: Display process of proximity sensor in android mobile devices.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ## PROGRAM:
 ```
@@ -147,7 +149,6 @@ public class MainActivity extends AppCompatActivity {
 
 </LinearLayout>
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT:
 
 ![Screenshot_17](https://user-images.githubusercontent.com/75235455/201958284-29003096-ca67-4b3b-8f54-8e3a07fd5259.png)
